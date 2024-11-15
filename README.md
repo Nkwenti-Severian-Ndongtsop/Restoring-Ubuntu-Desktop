@@ -15,7 +15,7 @@ sudo apt install ubuntu-desktop
 sudo apt install gdm3
 ```
 
-- Finally, you set this displaay mannager you just install to your default session using this command;
+- Finally, you can set this display manager you just installed to be your default session using this command;
 ```bash
 sudo dpkg-reconfigure gdm3
 ```
@@ -25,8 +25,8 @@ sudo dpkg-reconfigure gdm3
 sudo reboot
 ```
 - This command wil reboot your computer.\
-  - you have any issue drop in the Issues tab, i will attend to it.
-  - In case of any difficulty, you drop it in the issue tab.
+  - If you have any issues drop in the Issues tab, i will attend to it.
+  - In case of any difficulty, you drop it in the issues tab.
 
 # If this was helpful, please star the repository
 ## THANKS
